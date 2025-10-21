@@ -3,7 +3,7 @@ A comprehensive collection of SQL scripts for data exploration, analytics, and r
 This repository contains SQL queries designed to help data analysts and BI professionals quickly explore, segment, and analyze data within a relational database. Each script focuses on a specific analytical theme and demonstrates best practices for SQL queries.
 
 ---
-![Data Architecture](docs/data_architecture.png)
+![Data Architecture](docs/Project Roadmap.png)
 
 
 ## 🛡️ License
